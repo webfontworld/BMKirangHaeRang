@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'BMKirangHaeRang';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/BMKirangHaeRang/BMKirangHaeRang.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/BMKirangHaeRang/BMKirangHaeRang.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/BMKirangHaeRang/BMKirangHaeRang.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/BMKirangHaeRang/BMKirangHaeRang.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/BMKirangHaeRang/BMKirangHaeRang.ttf') format("truetype");
+    font-display: swap;
+} 
